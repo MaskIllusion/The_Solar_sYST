@@ -28,9 +28,9 @@
 
 ## 5. Структура
 The_Solar_sYST/
-├── index.html # Приложение
-├── README.md # Описание
-└── TECHNICAL_SPEC.md # ТЗ
+1.index.html # Приложение
+2.README.md # Описание
+3.TECHNICAL_SPEC.md # ТЗ
 
 text
 
